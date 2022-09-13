@@ -4,7 +4,7 @@ I'm currently a Senior QA Tester in the IT industry. My interests range from new
 
 When theres not nothing I love more than playing music and making movies. Also an avid photographer, reader and nature lover
 
-site: https://www.iamshib.in/
+site: http://www.iamshib.in/
 
 You can also read my blog, take a look at my portfoliio. 
 
